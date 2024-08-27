@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "form-app",
-    "slug": "form-app",
+    "name": "aplicativo",
+    "slug": "aplicativo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

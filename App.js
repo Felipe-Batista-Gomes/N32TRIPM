@@ -12,7 +12,7 @@ export default function App() {
         <Stack.Screen
           name="Form"
           component={FormScreen}
-          options={{ title: "Formulário" }}
+          options={{ title: "Aplicatuisvio" }}
         />
       </Stack.Navigator>
     </NavigationContainer>
